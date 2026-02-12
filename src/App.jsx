@@ -1,7 +1,7 @@
 import { useSelector } from "react-redux";
 import Navbar from "./components/Navbar";
 import Modal from "./components/Modal";
-import Column from "./components/Column";
+import Column from "./components/column";
 
 function App() {
   const tickets = useSelector((state) => state.tickets.tickets);
