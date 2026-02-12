@@ -9,7 +9,7 @@ responsive Kanban Board built using:
 
 ---
 
-## ✨ Features
+## Features
 
 - Add new tasks
 - Edit task content (Lock / Unlock)
