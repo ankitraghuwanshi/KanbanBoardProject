@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.lightpink { @apply bg-pink-400; }
+.lightyellow { @apply bg-yellow-400; }
+.lightgreen { @apply bg-green-400; }
+.lightblue { @apply bg-blue-400; }
